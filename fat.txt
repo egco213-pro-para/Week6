@@ -1,0 +1,26 @@
+Almond Oil,         73, 19,  8
+Avocado Oil,        70, 10, 20
+Butter,             30,  4, 66
+Canola Oil,         62, 32,  6
+Cocoa Butter,       35,  3, 62
+Coconut Oil,         6,  2, 92
+Corn Oil,           25, 62, 13
+Cottonseed Oil,     26, 50, 24
+Grape Seed Oil,     17, 71, 12
+Hazelnut Oil,       76, 14, 10
+Lard,               47, 12, 41
+Macadamia Nut Oil,  83,  3, 14
+Margarine (Hard),   14, 16, 80
+Margarine (Soft),   47, 33, 20
+Mustard Oil,        76, 23,  1
+Olive Oil,          77,  9, 14
+Palm Oil,           38, 10, 52
+Palm Kernel Oil,    12,  2, 86
+Peanut Oil,         49, 33, 18
+Rice Bran Oil,      47, 33, 20
+Safflower Oil,      13, 77, 10
+Sesame Oil,         40, 46, 14
+Soybean Oil,        24, 61, 15
+Sunflower Oil,      20, 69, 11
+Walnut Oil,         19, 67, 14
+Wheat Germ Oil,     30, 50, 20
