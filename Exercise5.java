@@ -57,9 +57,7 @@ public class Exercise5 {
                 System.out.printf("File name: ");
                 String file_name = scan_name.next();
                 Scanner input = new Scanner (new File (file_name + ".txt"));
-            
                 correct_file = false;
-
                 try
                 {
                     while (input.hasNext())
@@ -68,8 +66,7 @@ public class Exercise5 {
                         String[] buffer = line.split(",");
                         try
                         {
-                            
-                            
+
                             //if (buffer.length > 3) throws 0;
                             
                             String name = buffer[0];
@@ -84,36 +81,28 @@ public class Exercise5 {
                         {
                             System.out.printf(" INput << %s \r\n",line);
                             System.out.println(e);
-                            
                         }
-                        
                     }
                 }
                 catch (RuntimeException e)
                 {
-                    
                     System.err.print(e);
                 }
                 finally
                 {
-                    
                     continue;
                 }
             }
             catch (Exception e)
             {
-                
                 System.err.println(e);
             }
         }
-        
-        
         Collections.sort(A);
         
         for (int i = 0; i < A.size(); i++)
         {
             A.get(i).report();
         }
-    
 }
 }
